@@ -1,4 +1,11 @@
-### Hi there 👋
+`$ whoami`  
+Raymond
+
+`$ ls`  
+[LinkedIn](https://www.linkedin.com/in/rpbaguio)  
+[Instagram](https://instagram.com/rpbaguio)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpbaguio&count_private=true&show_icons=true)
 
 <!--
 **rpbaguio/rpbaguio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
