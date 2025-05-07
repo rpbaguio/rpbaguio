@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=rpbaguio&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rpbaguio/github-readme-stats#gh-dark-mode-only)
+[![Raymond's GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=rpbaguio&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/rpbaguio/github-readme-stats#gh-dark-mode-only)
 
 <!--
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rpbaguio&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
