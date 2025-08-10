@@ -1,4 +1,4 @@
-[![Raymond's GitHub Stats (Dark)](https://github-readme-stats.vercel.app/api?username=rpbaguio&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/rpbaguio/github-readme-stats#gh-dark-mode-only)
+[![Raymond's github stats (Dark)](https://github-readme-stats.vercel.app/api?username=rpbaguio&show_icons=true&count_private=true&theme=dark#gh-dark-mode-only)](https://github.com/rpbaguio/github-readme-stats#gh-dark-mode-only)
 
 ---
 
