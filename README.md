@@ -17,12 +17,12 @@ Passionate about modern web technologies, automation, and making ideas happen.
 ### `$ cat pinned-projects.md`
 Here are some of my favorite works:  
 
-| Project | Description | Repo |
-|---------|-------------|------|
-| **Schoolees Core** | All-in-one school management system | [🔗 View Repo](#) |
-| **Schoolees Pay** | Online tuition & payment platform | [🔗 View Repo](#) |
-| **Schoolees Pulse** | Real-time event & attendance tracker | [🔗 View Repo](#) |
-| **Schoolees Learn** | Cloud-based Learning Management System (LMS) for schools | [🔗 View Repo](#) |
+| Project | Description |
+|---------|-------------|
+| **Schoolees Core** | All-in-one school management system |
+| **Schoolees Pay** | Online tuition & payment platform |
+| **Schoolees Pulse** | Real-time event & attendance tracker |
+| **Schoolees Learn** | Cloud-based Learning Management System (LMS) for schools |
 
 <!--
 Optional: GitHub Metrics
