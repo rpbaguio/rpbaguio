@@ -1,4 +1,4 @@
-[!Raymond's github stats](https://github-readme-stats.vercel.app/api?username=rpbaguio&show_icons=true&theme=graywhite)
+![Raymond's github stats](https://github-readme-stats.vercel.app/api?username=rpbaguio&show_icons=true&theme=graywhite)
 ---
 
 ### `$ whoami`
