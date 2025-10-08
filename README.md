@@ -1,4 +1,6 @@
 [![Raymond's github stats (Dark)](https://github-readme-stats.vercel.app/api?username=rpbaguio&count_private=true&include_all_commits=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/rpbaguio/github-readme-stats#gh-dark-mode-only)
+[![Raymond's github stats (Dark)](
+https://camo.githubusercontent.com/bdf6791ea39289bff930ba15d968368b73b88ee6b1dbbd8c9a470decba26ff98/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a726126686964653d6973737565732673686f775f69636f6e733d74727565)]
 
 ---
 
