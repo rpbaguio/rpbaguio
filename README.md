@@ -18,10 +18,11 @@ Here are some of my favorite works:
 
 | Project | Description |
 |---------|-------------|
-| **Schoolees Core** | All-in-one school management system |
-| **Schoolees Pay** | Online tuition & payment platform |
-| **Schoolees Pulse** | Real-time event & attendance tracker |
-| **Schoolees Learn** | Cloud-based Learning Management System (LMS) for schools |
+| **SchooleesCore** | All-in-one school management system |
+| **SchooleesPay** | Online tuition & payment platform |
+| **SchooleesPulse** | Real-time event & attendance tracker |
+| **SchooleesLearn** | Cloud-based Learning Management System (LMS) for schools |
+| **SchooleesLearn App** | Unbranded Moodle App (Android and iOS)|
 
 <!--
 Optional: GitHub Metrics
