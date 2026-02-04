@@ -21,7 +21,7 @@ Here are some of my favorite works:
 | **SchooleesCore** | All-in-one school management system |
 | **SchooleesPay** | Online tuition & payment platform |
 | **SchooleesPulse** | Real-time event & attendance tracker |
-| **SchooleesLearn** | Cloud-based Learning Management System (LMS) for schools |
+| **SchooleesLearn** | Moodle-based Learning Management System (LMS) |
 | **SchooleesLearn App** | Unbranded Moodle App (Android and iOS)|
 
 <!--
