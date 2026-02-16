@@ -22,7 +22,7 @@ Here are some of my favorite works:
 | **SchooleesPay** | Online tuition & payment platform |
 | **SchooleesPulse** | Real-time event & attendance tracker |
 | **SchooleesLearn Web** | Moodle-based Learning Management System (LMS) |
-| **SchooleesLearn App** | Unbranded Moodle App (Android and iOS)|
+| **SchooleesLearn App** | Branded Moodle App (Android and iOS)|
 
 <!--
 Optional: GitHub Metrics
