@@ -17,7 +17,7 @@ Here are some of my favorite works:
 
   | Project | Description |
   |---|---|
-  | **SchooleesCore** | All-in-one school management platform covering students, academics, andadministration. |
+  | **SchooleesCore** | All-in-one school management platform covering students, academics, and administration. |
   | **SchooleesPay** | Tuition and payment platform for secure, streamlined fee management. |
   | **SchooleesPulse** | Event and attendance platform with real-time updates. |
   | **SchooleesLearn Web** | Moodle-based LMS web platform. |
