@@ -3,9 +3,7 @@
 -->
 
 ### `$ whoami`
-**Raymond** – Full-stack Developer • Tech Explorer • Lifelong Learner  
-I build solutions that merge clean code with creative problem-solving.  
-Passionate about modern web technologies, automation, and making ideas happen.
+**Raymond** – Business Owner @ Schoolees Systems | Founder | Transforming education through innovative technology solutions.
 
 <!--
 ### `$ ls -l`
@@ -17,13 +15,14 @@ Passionate about modern web technologies, automation, and making ideas happen.
 ### `$ cat pinned-projects.md`
 Here are some of my favorite works:  
 
-| Project | Description |
-|---------|-------------|
-| **SchooleesCore** | All-in-one school management system |
-| **SchooleesPay** | Online tuition & payment platform |
-| **SchooleesPulse** | Real-time event & attendance tracker |
-| **SchooleesLearn Web** | Moodle-based Learning Management System (LMS) |
-| **SchooleesLearn App** | Branded Moodle App (Android and iOS)|
+  | Project | Description |
+  |---|---|
+  | **SchooleesCore** | All-in-one school management platform covering students, academics, andadministration. |
+  | **SchooleesPay** | Tuition and payment platform for secure, streamlined fee management. |
+  | **SchooleesPulse** | Event and attendance platform with real-time updates. |
+  | **SchooleesLearn Web** | Moodle-based LMS web platform. |
+  | **SchooleesLearn App** | Branded Moodle mobile app for Android and iOS. |
+  | **Schoolees Jarvees AI** | Branded AI assistant for school operations and educational support. |
 
 <!--
 Optional: GitHub Metrics
