@@ -22,7 +22,7 @@ Here are some of my favorite works:
   | **SchooleesPulse** | Event and attendance platform with real-time updates. |
   | **SchooleesLearn Web** | Moodle-based LMS web platform. |
   | **SchooleesLearn App** | Branded Moodle mobile app for Android and iOS. |
-  | **Schoolees Jarvees AI** | Branded AI assistant for school operations and educational support. |
+  | **Schoolees Jarvees AI** | AI assistant for school operations and educational support. |
 
 <!--
 Optional: GitHub Metrics
